@@ -1,0 +1,11 @@
+#TODO: Three types of errors can be occur like 
+1- untracked : Means new files that git doesn't yet track
+2- modified: changed
+3- staged: file is ready to be committed
+4- unmodified: Unchanged
+
+add and commit commands
+#FIXME:add- adds new or changed files in our working directory to the git staging area
+git add<-file name->
+#FIXME:commit- it is the record of change
+git commit-m "some message"
